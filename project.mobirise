@@ -81,7 +81,9 @@
     "uniqCompNum": 112,
     "versionPublish": "5.9.13",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "publishType": "mbrsite",
+    "mbrsite": "mbrsite://%7B%22id%22%3A358978%2C%22domain%22%3A%221oukgzzxll.mobirisesite.com%22%7D"
   },
   "pages": {
     "OurProgram.html": {
